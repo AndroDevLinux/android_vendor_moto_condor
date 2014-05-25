@@ -180,6 +180,7 @@ PRODUCT_COPY_FILES += \
     vendor/moto/condor/proprietary/lib/hw/sensors.msm8610.so:system/lib/hw/sensors.msm8610.so \
     vendor/moto/condor/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/moto/condor/proprietary/lib/libmotext_inf.so:system/lib/libmotext_inf.so \
+    vendor/moto/condor/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/moto/condor/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/moto/condor/proprietary/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so \
     vendor/moto/condor/proprietary/vendor/lib/libdsnetutils.so:system/vendor/lib/libdsnetutils.so \
