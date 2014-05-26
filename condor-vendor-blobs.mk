@@ -210,4 +210,6 @@ PRODUCT_COPY_FILES += \
     vendor/moto/condor/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
     vendor/moto/condor/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
     vendor/moto/condor/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
-    vendor/moto/condor/proprietary/vendor/lib/libOmxAmrwbplusDec.so:system/vendor/lib/libOmxAmrwbplusDec.so
+    vendor/moto/condor/proprietary/vendor/lib/libOmxAmrwbplusDec.so:system/vendor/lib/libOmxAmrwbplusDec.so \
+    vendor/moto/condor/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+    vendor/moto/condor/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so
