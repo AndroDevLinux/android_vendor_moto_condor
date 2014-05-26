@@ -201,4 +201,13 @@ PRODUCT_COPY_FILES += \
     vendor/moto/condor/proprietary/etc/Handset_cal.acdb:system/etc/Handset_cal.acdb \
     vendor/moto/condor/proprietary/etc/Hdmi_cal.acdb:system/etc/Hdmi_cal.acdb \
     vendor/moto/condor/proprietary/etc/Headset_cal.acdb:system/etc/Headset_cal.acdb \
-    vendor/moto/condor/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb
+    vendor/moto/condor/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
+    vendor/moto/condor/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
+    vendor/moto/condor/proprietary/vendor/lib/libDivxDrm.so:system/vendor/lib/libDivxDrm.so \
+    vendor/moto/condor/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
+    vendor/moto/condor/proprietary/vendor/lib/libOmxIttiamVdec.so:system/vendor/lib/libOmxIttiamVdec.so \
+    vendor/moto/condor/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
+    vendor/moto/condor/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
+    vendor/moto/condor/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
+    vendor/moto/condor/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
+    vendor/moto/condor/proprietary/vendor/lib/libOmxAmrwbplusDec.so:system/vendor/lib/libOmxAmrwbplusDec.so
